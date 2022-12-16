@@ -20,6 +20,7 @@ Mockterview는 CTO/Top-tier 개발자들이 검수한 문제로 기술 인터뷰
 |**모의면접**|**모의면접 결과지**|
 |![질문 담기](https://user-images.githubusercontent.com/77824583/208049793-03471455-dbd8-4078-8811-a1f867e2a9ed.gif)|![모의면접 결과지](https://user-images.githubusercontent.com/77824583/208057907-6ca0742b-f765-468f-aacb-f395fdc2a3f8.gif)|
 
+* * *
 
 ## 📣 Project
 ### 📆 Project Timeline
@@ -96,7 +97,7 @@ Mockterview는 CTO/Top-tier 개발자들이 검수한 문제로 기술 인터뷰
 ## 📖 More info
 <details markdown="1">
 <summary><strong>서비스 아키텍쳐</strong></summary>
-준비 중..
+<img src="https://i.postimg.cc/kG7hFJgc/mockterview-001.jpg">
 </details>
 <details>
 <summary><strong>API 명세서</strong></summary>
