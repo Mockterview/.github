@@ -1,30 +1,39 @@
-![readme]//배너
+[![read-me.png](https://i.postimg.cc/d1WYrYNC/read-me.png)](https://postimg.cc/0MJF1Ls5)
 <br>
 
-<a href="https://www.mockterview.xyz">Mockterview</a> (기술 인터뷰 준비 사이트)
+<a href="https://www.mockterview.xyz">💻 Mockterview</a>
 =============
 ## 🙌 Introduce Mockterview
-<br>Mockterview는 Top-tier 개발자들이 검수한 문제로 기술 인터뷰를 연습할 수 있는 서비스입니다.<br>
-<br><img src="https://user-images.githubusercontent.com/77824583/208034042-f97ce40d-8f3c-45e4-aaff-6cb9895ac331.png" width="1000px" height="600px">
-- [서비스 소개](//wikilink)
-- [Mockterview 바로가기](https://www.mockterview.xyz)
-
+Mockterview는 CTO/Top-tier 개발자들이 검수한 문제로 기술 인터뷰를 연습할 수 있는 서비스입니다.<br>
+<br><img src="https://i.postimg.cc/52wjvXBF/2022-12-16-5-17-16.png)](https://postimg.cc/Jsz1C4d1" width="1000px" height="600px">
 
 * * *
 
-### 기능 소개
+## 📣 Project
+### 📆 Project Timeline
+- 총 기간: 2022/11/21 ~ 2022/12/23
+- 배포: 2022/12/06
+
+### 👨‍💻👩‍💻 The Team
+|Name|GitHub/Contact|Position|
+|:---:|:---:|:---:|
+|이미정|https://github.com/MiJungle|Frontend|
+|이동규|https://github.com/dongury1114|Frontend|
+|윤혜진|https://github.com/hyejin4169|Frontend|
+|신원혁|https://github.com/god1hyuk|Backend|
+|김상호|https://github.com/ktkdgh|Backend|
+|장여주|https://my.surfit.io/w/105350787|Designer|
 
 ### 📌 Links
-- [Website](https://ty-ing.com/)
-- [Website Demo Video](https://youtu.be/hH-18nmtXbM)
-- [Video Presentation](https://youtu.be/YajlOfB-aP8)
-- [Frontend Repository](https://github.com/ty-ing/ty-ing_FE)
-- [Backend Repository](https://github.com/ty-ing/ty-ing_BE)
-- [Notion Page](https://power-tilapia-e1d.notion.site/TYING-2fff56c26b5842cfb6620cf4e5c6c5be)
+- [Website](https://www.mockterview.xyz)
+- [Service Introduction](/wikilink) *todo: 서비스 소개 위키 링크 넣기
+- [Frontend Repository](https://github.com/Mockterview/mockterview-frontend)
+- [Backend Repository](https://github.com/Mockterview/mockterview-backend)
 
 * * *
 
 ## 💎 Core Features
+*todo: gif파일 넣기
 <details>
 <summary><strong>💻 모범 답안, 다양한 아티클을 활용한 타이핑 연습</strong></summary>
 <br/>
@@ -68,37 +77,31 @@
 ## 🛠 Tech Stack & Platform
 ### **Frontend**
 <p>
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-<img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
 <img src="https://img.shields.io/badge/axios-007CE2?style=for-the-badge&logo=axios&logoColor=white">
-<img src="https://img.shields.io/badge/reactrouterdom-CA4245?style=for-the-badge&logo=reactrouterdom&logoColor=white">
+<img src="https://img.shields.io/badge/emotion-DB7093?style=for-the-badge&logo=emotion&logoColor=white">
 </br>
-<img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white">
-<img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
 <img src="https://img.shields.io/badge/amazons3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"> 
 <img src="https://img.shields.io/badge/route53-F7A81B?style=for-the-badge&logo=route53&logoColor=white">
-<img src="https://img.shields.io/badge/cloudfront-04ACE6?style=for-the-badge&logo=cloudfront&logoColor=white">
+<img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
+<img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white">
 <br>
 </p>
 
 ### **Backend**
 <p>
-<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-<img alt="Express.js" src ="https://img.shields.io/badge/express-000000.svg?&style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/passport-33D875?style=for-the-badge&logo=passport&logoColor=white">
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white">
 <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
-<img alt="mongoose" src ="https://img.shields.io/badge/mongoose-47A248.svg?&style=for-the-badge&logo=mongoose&logoColor=white"/>
+<img src="https://img.shields.io/badge/mongoose-47A248.svg?&style=for-the-badge&logo=mongoose&logoColor=white"/>
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
 </br>
-<img src="https://img.shields.io/badge/route53-F7A81B?style=for-the-badge&logo=route53&logoColor=white">
+<img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
 <img src="https://img.shields.io/badge/Load Balancer-FF9E0F?style=for-the-badge&logo=Load Balancer&logoColor=white">
 <img src="https://img.shields.io/badge/AWS Ec2-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
-<img src="https://img.shields.io/badge/AWS CloudWatch-EC3750?style=for-the-badge&logo=amazonaws&logoColor=white"> 
-<img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"> 
-<img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=PM2&logoColor=white">
+<img src="https://img.shields.io/badge/route53-F7A81B?style=for-the-badge&logo=route53&logoColor=white">
 <br>
 
 ### **Design**
@@ -110,8 +113,8 @@
 ### **Tools**
 <p>
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
+<img src="https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black">
 <img src="https://img.shields.io/badge/googleanalytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white">
-<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white">
 <br>
@@ -120,10 +123,12 @@
 * * *
 
 ## 📖 More info
+*todo: 아키텍쳐 이미지 넣기
 <details markdown="1">
 <summary><strong>서비스 아키텍쳐</strong></summary>
 <img src="https://imagedelivery.net/v7-TZByhOiJbNM9RaUdzSA/709e790c-3f3a-4f40-1910-4a7dd6b5dc00/public">
 </details>
+*todo: API 명세서 이미지 혹은 노션링크 넣기
 <details>
 <summary><strong>API 명세서</strong></summary>
 <div markdown="1">
@@ -172,6 +177,7 @@
 * * *
 
 ## 🔥 Challenges & Trouble Shooting
+*todo: FE/BE wiki link 넣기
 <details>
 <summary><strong>Frontend</strong></summary>
 <details>
@@ -291,21 +297,3 @@
 <p>- 유저가 저장한 스크립트에 대한 데이터가 저장되는 테이블인 Myscript에서 userId가 일치하는 데이터에 addFields로 “exist”: “true” 값을 담아 전달함으로써 해결
   </ul>
 </details>
-
-* * *
-## 📣 Project
-### 📆 Project Timeline
-- 총 기간: 2022/02/25 ~ 2022/04/08
-- 배포: 2022/03/29
-
-### 👨‍💻👩‍💻 The Team
-|Name|GitHub/Contact|Position|
-|:---:|:---:|:---:|
-|정현수🔰|https://github.com/ricky0813|Frontend|
-|윤혜진|https://github.com/hyejin4169|Frontend|
-|김기덕|https://github.com/nikemaniaa1987|Frontend|
-|용주성🔰|https://github.com/Tacocat3|Backend|
-|김민정|https://github.com/minkimhere|Backend|
-|이노규|https://github.com/nklee6300|Backend|
-|전소연|soy990417@naver.com|Design|
-|임승현|dkch7@naver.com|Design|
