@@ -1,7 +1,7 @@
-[![read-me.png](https://i.postimg.cc/d1WYrYNC/read-me.png)](https://postimg.cc/0MJF1Ls5)
+<img src="https://i.postimg.cc/d1WYrYNC/read-me.png" width="1000" />
 <br>
 
-<a href="https://www.mockterview.xyz">💻 Mockterview</a>
+<a href="https://www.mockterview.xyz" >💻 Mockterview</a>
 =============
 ## 🙌 Introduce Mockterview
 Mockterview는 CTO/Top-Tier 개발자들이 검수한 문제로 기술 인터뷰를 연습할 수 있는 서비스입니다.<br>
