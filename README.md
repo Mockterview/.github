@@ -1,35 +1,18 @@
-![readme](https://imagedelivery.net/v7-TZByhOiJbNM9RaUdzSA/ff671ecb-6cbe-443b-9f63-f589ae677000/public)
+![readme]//배너
 <br>
 
-⌨️ Tying (타잉)
+<a href="https://www.mockterview.xyz">Mockterview</a> (기술 인터뷰 준비 사이트)
 =============
-## 🙌 Introduce Tying
->“영어타자, 빠르지 않아도 괜찮아.”
-<br>타잉은 컴퓨터 기반 영어 시험 준비를 위한 영타 연습 서비스입니다.<br>
-<br><img src="https://velog.velcdn.com/images/hyejin4169/post/4752d8a3-b598-4086-b18d-7942a7f322e2/image.png">
-
-
-[![바로가기](https://imagedelivery.net/v7-TZByhOiJbNM9RaUdzSA/8d36b691-b8d4-48a2-b021-54b481b3ab00/public)](https://ty-ing.com/)
+## 🙌 Introduce Mockterview
+<br>Mockterview는 Top-tier 개발자들이 검수한 문제로 기술 인터뷰를 연습할 수 있는 서비스입니다.<br>
+<br><img src="https://user-images.githubusercontent.com/77824583/208034042-f97ce40d-8f3c-45e4-aaff-6cb9895ac331.png" width="1000px" height="600px">
+- [서비스 소개](//wikilink)
+- [Mockterview 바로가기](https://www.mockterview.xyz)
 
 
 * * *
 
-## 📣 Project
-### 📆 Project Timeline
-- 총 기간: 2022/02/25 ~ 2022/04/08
-- 배포: 2022/03/29
-
-### 👨‍💻👩‍💻 The Team
-|Name|GitHub/Contact|Position|
-|:---:|:---:|:---:|
-|정현수🔰|https://github.com/ricky0813|Frontend|
-|윤혜진|https://github.com/hyejin4169|Frontend|
-|김기덕|https://github.com/nikemaniaa1987|Frontend|
-|용주성🔰|https://github.com/Tacocat3|Backend|
-|김민정|https://github.com/minkimhere|Backend|
-|이노규|https://github.com/nklee6300|Backend|
-|전소연|soy990417@naver.com|Design|
-|임승현|dkch7@naver.com|Design|
+### 기능 소개
 
 ### 📌 Links
 - [Website](https://ty-ing.com/)
@@ -310,3 +293,19 @@
 </details>
 
 * * *
+## 📣 Project
+### 📆 Project Timeline
+- 총 기간: 2022/02/25 ~ 2022/04/08
+- 배포: 2022/03/29
+
+### 👨‍💻👩‍💻 The Team
+|Name|GitHub/Contact|Position|
+|:---:|:---:|:---:|
+|정현수🔰|https://github.com/ricky0813|Frontend|
+|윤혜진|https://github.com/hyejin4169|Frontend|
+|김기덕|https://github.com/nikemaniaa1987|Frontend|
+|용주성🔰|https://github.com/Tacocat3|Backend|
+|김민정|https://github.com/minkimhere|Backend|
+|이노규|https://github.com/nklee6300|Backend|
+|전소연|soy990417@naver.com|Design|
+|임승현|dkch7@naver.com|Design|
