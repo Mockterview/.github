@@ -14,7 +14,7 @@ Mockterview는 CTO/Top-tier 개발자들이 검수한 문제로 기술 인터뷰
 |:--------------:|
 |<img src="https://user-images.githubusercontent.com/77824583/208049796-8081cae5-029b-45f6-8cda-5b9d529928f2.gif" width="980" />|
 
-|**로그인/회원가입**|**문제집**|
+|**로그인 / 회원가입**|**문제집**|
 |:---:|:---:|
 |![로그인/회원가입](https://user-images.githubusercontent.com/77824583/208049734-186b6238-034c-49b2-a92f-f86fdc48cd80.gif)|![문제집](https://user-images.githubusercontent.com/77824583/208053793-d1a1df5e-89e8-4b2e-ba64-b105a27e102e.gif)|
 |**모의면접**|**모의면접 결과지**|
