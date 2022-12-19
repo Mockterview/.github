@@ -1,5 +1,4 @@
 <img src="https://i.postimg.cc/d1WYrYNC/read-me.png" width="1000" />
-<br>
 
 <a href="https://www.mockterview.xyz" >💻 Mockterview</a>
 =============
@@ -43,7 +42,7 @@ Mockterview는 CTO/Top-Tier 개발자들이 검수한 문제로 기술 인터뷰
 
 ### 📌 Links
 - [Website](https://www.mockterview.xyz)
-- [Service Introduction](/wikilink) *todo: 서비스 소개 위키 링크 넣기
+- [Service Introduction](https://github.com/Mockterview/.github/wiki)
 - [Frontend Repository](https://github.com/Mockterview/mockterview-frontend)
 - [Backend Repository](https://github.com/Mockterview/mockterview-backend)
 
