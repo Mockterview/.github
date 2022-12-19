@@ -42,7 +42,7 @@ Mockterview는 CTO/Top-Tier 개발자들이 검수한 문제로 기술 인터뷰
 
 ### 📌 Links
 - [Website](https://www.mockterview.xyz)
-- [Service Introduction](https://github.com/Mockterview/.github/wiki)
+- [GitHub Wiki](https://github.com/Mockterview/.github/wiki)
 - [Frontend Repository](https://github.com/Mockterview/mockterview-frontend)
 - [Backend Repository](https://github.com/Mockterview/mockterview-backend)
 
