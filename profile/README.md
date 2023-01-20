@@ -106,7 +106,7 @@ Mockterview는 CTO/Top-Tier 개발자들이 검수한 문제로 기술 인터뷰
 </details>
 <details>
 <summary><strong>API 명세서</strong></summary>
-<a href="https://teamsparta.notion.site/API-e760bf95ae594c61b876d4315b179a7f">API 명세서 바로가기</a>
+<a href="https://bit.ly/3XNZVRv">API 명세서 바로가기</a>
 </details>
 
 * * *
